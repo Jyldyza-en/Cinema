@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Cinema</string>
+    <string name="poster">poster</string>
+    <string name="movie_title">Кавказская пленница или новые приключения Шурика</string>
+    <string name="director_label">Director:</string>
+    <string name="director">Леонид Гайдай</string>
+    <string name="movie_short_description">Герой фильма Шурик, направленный в одну из горных республик собирать фольклор, влюбляется в симпатичную девушку Нину. Неожиданно ее похищают, чтобы насильно выдать замуж. Наивному и доброму Шурику не сразу удается сообразить, что происходит, но затем с помощью верного друга он освобождает \"кавказскую пленницу\"...</string>
+    <string name="actor_1">Александр Демьяненко</string>
+    <string name="actor_2">Наталья Варлей</string>
+    <string name="actor_3">Владимир Этуш</string>
+    <string name="actor_4">Фрунзик Мкртчян</string>
+    <string name="actor_5">Юрий Никулин</string>
+    <string name="actor_6">Георгий Вицин</string>
+    <string name="actor_7">Евгений Моргунов</string>
+    <string name="actors_label">Actors</string>
+    <string name="actor_8">Руслан Ахметов</string>
+    <string name="like">Like</string>
+    <string name="watch">Watch</string>
+    <string name="share">Share</string>
+</resources>

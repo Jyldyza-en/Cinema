@@ -17,4 +17,8 @@
     <string name="like">Like</string>
     <string name="watch">Watch</string>
     <string name="share">Share</string>
+    <string name="but_like">Added in Favorite movies</string>
+    <string name="back">Back</string>
+    <string name="watch1">please wait video loading ...</string>
+    <string name="social">social</string>
 </resources>
